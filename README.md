@@ -1,5 +1,5 @@
-### Hi there, I'm Nurcholis👋
-<p align="center"><img src="https://www.codewars.com/users/nurcholis25/badges/large"/><br /><br />
+
+<p align="center"><img src="https://www.codewars.com/users/nurcholis25/badges/large"/><br />Hi there, I'm Nurcholis👋<br />
 
 ### and here is my stats
 
