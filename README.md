@@ -1,5 +1,5 @@
 
-<p align="center"size width="612px"><img src="https://www.codewars.com/users/nurcholis25/badges/large"width="912px"/><br />Hi there, I'm Nurcholis👋<br />
+<p align="center"size width="612px"><img src="https://www.codewars.com/users/nurcholis25/badges/large"width="950px"/><br />Hi there, I'm Nurcholis👋<br />
 
 ### and here is my stats
 
@@ -27,7 +27,7 @@ I'm Elangovan. I'm a Full Stack Developer who is passionate about making open-so
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="612px"/>
+<img src="https://memes.com/m/7dBoDvjzL49" width="612px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nurcholis25&icon=4&color=0)](https://visitcount.itsvg.in)
